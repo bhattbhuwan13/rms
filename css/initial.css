@@ -1,0 +1,14 @@
+body{
+	max-width:100%;
+	max-height: 100%;
+	background-color: blue;
+}
+
+header{
+	background-color: #bababa;
+	max-width: 80%;
+	height:auto;
+	margin-right: auto;
+	margin-left: auto;
+	background-size: 100%;
+}
