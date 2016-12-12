@@ -35,20 +35,18 @@ header{
 	margin:10px 0px;
 }
 
-tr{
-	max-width: 80%;
+table{
+	width: 100%;
 }
 
-.tableSelect{
-	float:left;
-	max-width:45%;
-	margin-left: 2.5%;
-	margin-right: 2.5%;
-	margin-top: 10px;
-	margin-bottom: 10px;
+img.individualTable{
+	max-width: 80%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
 	opacity: 0.5;
 }
-
 /* Style for the content finish here */
 
 
