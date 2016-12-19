@@ -12,16 +12,18 @@ header{
 	max-width:100%;
 }
 
-/* Header Styles finish here */
-
-
-/* Style for the content part go here */
-
 #headerImage{
 	width:100%;
 	max-height:40%;
 	margin-bottom: 10px;
 }
+
+/* Header Styles finish here */
+
+
+
+/* Style for the content part go here */
+
 
 #content{
 	max-width:100%;
@@ -31,7 +33,6 @@ header{
 
 #alignCenter{
 	text-align:center;
-	position:relative;
 	margin:10px 0px;
 }
 
@@ -41,10 +42,7 @@ table{
 
 img.individualTable{
 	max-width: 80%;
-	margin-top: 5%;
-	margin-bottom: 5%;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin: 5% 10% 5% 10%; /* margin takes margin in clockwise direction starting from top -> right ... */
 	opacity: 0.5;
 }
 /* Style for the content finish here */
