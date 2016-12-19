@@ -27,7 +27,6 @@ header{
 
 #content{
 	max-width:100%;
-/* 	background-color:#2eb265; */
 }
 
 
@@ -40,12 +39,27 @@ table{
 	width: 100%;
 }
 
-img.individualTable{
+td{
+	position:relative;
+}
+
+.individualTable{
 	max-width: 80%;
 	margin: 5% 10% 5% 10%; /* margin takes margin in clockwise direction starting from top -> right ... */
 	opacity: 0.5;
+	position:relative;
+/* 	z-index: 1; */
+}
+
+p#overImage{
+	position: relative;
+	top: -170px;
+	align:center;
+/* 	z-index: 2; */
 }
 /* Style for the content finish here */
+
+
 
 
 /* Styles for the footer go here */
